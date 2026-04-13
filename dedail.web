@@ -1,0 +1,56 @@
+Aim:
+To design and develop an Index Page for a Restaurant Menu Website using HTML, which provides an attractive homepage with restaurant details, navigationlinks,featureddishes,andeasyaccesstomenuandbookingpages.
+ 
+Procedure:RestaurantMenuPage
+Step1:CreatingtheBasicHTMLStructure
+TheprojectwasstartedbycreatingmultipleHTMLpagesusingthe<!DOCTYPEHTML>d eclaration,
+<html>,<head>,and<body>tagstodefinethebasicstructureofeachwebpage.
+ 
+Step2:SettingWebsiteTitle
+Insidethe<head>section,thetitle“Web-BasedRestaurantMenuPage”was added using the <title> tag to represent the Restaurantwebsite.
+ 
+Step3:DesigningtheHomePage Atthetopofthepage:
+Displaytherestaurantname
+Addashorttagline(e.g.,“DeliciousFood,HappyMood”)
+ 
+Thissectiongivesafirstimpressiontothe user.
+Step4:ImplementingNavigationMenu Anavigationmenuwasaddedusing<a>(anchor)tagstolinkthefollowing pages:: 
+•	Home
+•	Menu
+•	Specials
+•	Tablebooking
+•	Contact
+•	About
+Thisallowssmoothnavigationbetweenallsectionsofthewebsite.
+Step5:AddWelcome Content
+Includeawelcomemessagedescribing:
+Therestaurant’squality
+Fresh ingredients
+Friendly service
+This builds customer interest. Step6: Display FeaturedDishes Showafewpopulardishes with:
+Dishname
+Shortdescription
+ 
+Thisattractscustomersandhighlightstherestaurant’sspecialties.
+Step7:AddCall-to-ActionButtons Providebuttonssuchas:
+View Menu
+BookaTable
+ 
+Thesebuttonsencourageuserinteraction.
+Step8:IncludeRestaurantTimingsandLocation
+Mention:
+Openingandclosingtimes
+Restaurant address
+Thisprovidesimportantinformationforvisitors.
+ 
+Step9:AddFooterSection
+•	Atthebottomofthepage:
+•	Copyrightinformation
+•	Restaurantname
+•	Contactdetails
+•	Thiscompletesthepageprofessionally.
+ 
+Step10:Saveand Test
+Savethefileasindex.htmlandopenitinawebbrowser. Check:
+Navigationlinks
+Text display
